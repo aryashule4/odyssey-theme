@@ -5,10 +5,10 @@
 <br/>
 <div align="center">
   <a href="https://twitter.com">
-  <img src="assets/twitter-badge.svg" alt="Follow Jaydan Urwin on Twitter"/>
+  <img src="assets/Facebook-badge.svg"/>
 </a>
-  <a href="https://sapling.lemonsqueezy.com/checkout/buy/9b78751f-6382-442d-ac99-32c2318b70a0">
-    <img src="assets/sponsor-badge.svg" alt="Sponsor This Repo" />
+  <a href="https://sapling.lemons">
+    
   </a>
 </div>
 <br/>
